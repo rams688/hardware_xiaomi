@@ -25,6 +25,7 @@ static const fingerprint_hal_t kModules[] = {
         {"goodix"},
         {"goodix_fod"},
         {"goodix_fod6"},
+        {"goodix_ts"},
         {"silead"},
         {"syna"},
 };
